@@ -13,6 +13,41 @@ function initMap() {
       review: "抹茶パフェが絶品！"
     },
     {
+      name: "辻利 銀座店",
+      position: { lat: 35.6694, lng: 139.7638 },
+      station: "銀座駅",
+      access: "銀座駅A2出口から徒歩3分",
+      review: "抹茶ソフトとラテが上品な味わい。"
+    },
+    {
+      name: "おちゃらか 日本橋店",
+      position: { lat: 35.6850, lng: 139.7735 },
+      station: "日本橋駅",
+      access: "日本橋駅直結 コレド室町1F",
+      review: "創作抹茶スイーツと和紅茶が楽しめる。"
+    },
+    {
+      name: "茶の庭 ルミネ立川店",
+      position: { lat: 35.6976, lng: 139.4132 },
+      station: "立川駅",
+      access: "立川駅直結 ルミネ1F",
+      review: "本格宇治抹茶スイーツのカフェスタンド。"
+    },
+    {
+      name: "抹茶カフェHACHI 横浜元町店",
+      position: { lat: 35.4409, lng: 139.6489 },
+      station: "元町・中華街駅",
+      access: "元町・中華街駅から徒歩5分",
+      review: "抹茶×フルーツのスイーツが新感覚。"
+    },
+    {
+      name: "茶寮伊藤園 渋谷ヒカリエShinQs店",
+      position: { lat: 35.6595, lng: 139.7036 },
+      station: "渋谷駅",
+      access: "渋谷駅直結ヒカリエB2F",
+      review: "抹茶ラテとどら焼きのセットが人気。"
+    },
+    {
       name: "中村藤吉本店 銀座店",
       position: { lat: 35.6717, lng: 139.7631 },
       station: "銀座駅",
